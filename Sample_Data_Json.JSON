@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "5f6f7ba2d9328027ac053e92"
+  },
+  "name": "SimplifyingTech",
+  "id": 101,
+  "Subscribers": 100,
+  "Genre": "Programming",
+  "Uploads": "12"
+},{
+  "_id": {
+    "$oid": "5f6f7ba3d9328027ac053e93"
+  },
+  "name": "CarryMinati",
+  "id": 102,
+  "Subscribers": 24000000,
+  "Genre": "Comedy",
+  "Uploads": "171"
+},{
+  "_id": 103,
+  "name": "Flying Beast",
+  "Subscribers": 3900000,
+  "Genre": "Vlogging",
+  "Uploads": "547"
+},{
+  "_id": 104,
+  "name": "Mumbaikar Nikhil",
+  "Subscribers": 3400000,
+  "Genre": "Vlogging",
+  "Uploads": "1214"
+},{
+  "_id": 105,
+  "name": "Amit Bhadana",
+  "Subscribers": 21000000,
+  "Genre": "Comedy",
+  "Uploads": "78"
+},{
+  "_id": 106,
+  "name": "BB K Vines",
+  "Subscribers": 19100000,
+  "Genre": "Comedy",
+  "Uploads": "167"
+}]
